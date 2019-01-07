@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "ASTInterpreter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"writingAndReadingClassVariableTestClassVar",
+		"writingAndReadingInstanceVar"
+	],
+	"instvars" : [ ],
+	"name" : "ASTInterpreterTest",
+	"type" : "normal"
+}

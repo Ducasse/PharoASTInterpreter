@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ASTInterpreter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"instVar"
+	],
+	"name" : "ASTInterpreterTestAssistWriteAndReadInstanceVariable",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+accessing
+statements
+	
+	^ astNode statements

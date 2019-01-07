@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ASTInterpreter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contextStack",
+		"debugMode",
+		"debugTranscriptTabLevel"
+	],
+	"name" : "ASTInterpreter",
+	"type" : "normal"
+}

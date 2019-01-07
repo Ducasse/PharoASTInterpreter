@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ASTInterpreter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mustReturn",
+		"returnValue",
+		"contextStack"
+	],
+	"name" : "ASTInterpreterOld",
+	"type" : "normal"
+}

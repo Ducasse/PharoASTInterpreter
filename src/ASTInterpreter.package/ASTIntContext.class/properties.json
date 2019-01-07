@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ASTInterpreter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"receiver",
+		"variables",
+		"argumentsValues",
+		"argumentsNames",
+		"parentASTIntContext",
+		"mustReturn",
+		"returnValue",
+		"nonLocalReturnBlock"
+	],
+	"name" : "ASTIntContext",
+	"type" : "normal"
+}

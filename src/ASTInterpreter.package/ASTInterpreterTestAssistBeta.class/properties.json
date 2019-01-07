@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "ASTInterpreterTestAssistAlpha",
+	"category" : "ASTInterpreter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"BetaClassVar"
+	],
+	"instvars" : [
+		"betaInstVar"
+	],
+	"name" : "ASTInterpreterTestAssistBeta",
+	"type" : "normal"
+}
