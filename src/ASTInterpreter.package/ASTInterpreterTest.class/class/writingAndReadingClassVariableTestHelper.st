@@ -1,4 +1,0 @@
-as yet unclassified
-writingAndReadingClassVariableTestHelper
-	writingAndReadingClassVariableTestClassVar := 2.
-	^ writingAndReadingClassVariableTestClassVar.
